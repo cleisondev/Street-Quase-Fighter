@@ -1,9 +1,10 @@
 # Street-Quase-Fighter
-É basicamente um jogo criado em POO, inspirado em Street Fighter, contendo movimentos básicos de ataque e recuperação.
+É basicamente um jogo criado em POO, inspirado em Street Fighter, contendo movimentos básicos de ataque e recuperação e sons representando os movimentos.
 <br>
 <br>
+Obs: Parabéns a Amanda, minha namorada.
 
-Contém sons de ataque e de recuperação, assim como o de vitória.
+![SF](https://user-images.githubusercontent.com/101435336/191161471-839b60f0-830a-4120-913b-bfcbdb11bec3.gif)
 
 # <em>Tecnologias usadas🚀</em>
 
@@ -12,10 +13,9 @@ Contém sons de ataque e de recuperação, assim como o de vitória.
 <li>CSS</li>
 <li>Javascript</li>
 
-
-
 </ul>
 <br>
+
 
 
 
